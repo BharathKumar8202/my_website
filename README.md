@@ -1,6 +1,6 @@
 # Website for my blog
 
-A minimalistic personal blog and learning documentation website built with Next.js, Tailwind, and TypeScript.
+A minimalistic personal blog and learning documentation website built with Next.js, Tailwind, and TypeScript. Inspired from SUMIT ML
 
 ## Want to use this code for your own site?
 
